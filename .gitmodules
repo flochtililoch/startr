@@ -1,0 +1,6 @@
+[submodule "vendor/twitter/bootstrap"]
+	path = vendor/twitter/bootstrap
+	url = https://github.com/twitter/bootstrap/
+[submodule "vendor/modernizr/modernizr"]
+	path = vendor/modernizr/modernizr
+	url = https://github.com/Modernizr/Modernizr.git
